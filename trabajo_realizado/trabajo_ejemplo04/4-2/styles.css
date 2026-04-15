@@ -1,0 +1,40 @@
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #1a4d8f;
+}
+
+.contador {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+#valor {
+  font-size: 40px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: 2px solid currentColor;
+  border-radius: 10px;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #1a4d8f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.reset {
+  background-color: #ccc;
+  color: #333;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+    margin: 60px;
+    font-family: Arial;
+    text-align: center;
+}
+
+b {
+    color: #ff0000;
+}
+
+i {
+    color: #cfc209;
+}
+
+h1 {
+    color: #ff0000;
+    font-size: 62px;
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 12px;
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 28px;
+    margin-top: 12px;
+}
+
+h4 {
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 60px;
+}

@@ -1,0 +1,46 @@
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #222;
+  font-size: 18px;
+}
+
+h1 {
+  color: #1a4d8f;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.botones {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 14px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+#btnEspanol {
+  background-color: #c41e3a;
+  color: white;
+}
+
+#btnEspanol:hover {
+  background-color: #a01830;
+}
+
+#btnIngles {
+  background-color: #012169;
+  color: white;
+}
+
+#btnIngles:hover {
+  background-color: #000d3b;
+}

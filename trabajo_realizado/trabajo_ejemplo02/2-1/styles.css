@@ -1,0 +1,39 @@
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 60px;
+  color: #333;
+  margin-bottom: 16px;
+}
+
+.botones {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 14px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+#btnCambiar {
+  background-color: #1a4d8f;
+  color: white;
+}
+#btnCambiar:hover {
+  background-color: #163d70;
+}
+
+#btnRestaurar {
+  background-color: #9c9c9c;
+  color: white;
+}
+#btnRestaurar:hover {
+  background-color: #7a7a7a;
+}

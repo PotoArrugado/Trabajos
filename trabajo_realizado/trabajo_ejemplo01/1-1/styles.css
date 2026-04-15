@@ -1,0 +1,35 @@
+body {
+    background-color: #3d0cafe1;
+    margin: 40px;
+    font-family: cursive;
+}
+
+h1 {
+    color: #bd1818;
+    font-size: 62px;
+}
+h2 {
+    color: #e638ec;
+    font-size: 32px;
+}
+p {
+    color: #e7eb13;
+    font-size: 18px;
+    margin-top: 12px;
+}
+strong {
+    color: #18d7dd;
+    font-size: 18px;
+}
+i {
+    color: #eb0967;
+    font-size: 18px;
+}
+u {
+    color: #e76841;
+    font-size: 18px;
+}
+small {
+    color: #63bd0f;
+    font-size: 12px;
+}

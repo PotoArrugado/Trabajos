@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+ 
+  align-items: center;
+  font-family: Arial, sans-serif;
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.contador {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+#valor {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.2);
+}
+
+.reset {
+  background-color: rgba(255,255,255,0.3);
+}

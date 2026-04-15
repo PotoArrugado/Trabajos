@@ -1,0 +1,45 @@
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #222;
+  font-size: 18px;
+}
+
+h1 {
+  color: #1a4d8f;
+}
+
+p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.botones {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 10px 14px;
+  font-size: 16px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+#btnBienvenida {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#btnInformacion {
+  background-color: #2196F3;
+  color: white;
+}
+
+#btnConsejo {
+  background-color: #FF9800;
+  color: white;
+}
